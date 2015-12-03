@@ -1,3 +1,7 @@
+# THIS IS AN ALPHA VERSION WHICH IS NOT PRODUCTION READY IN ANY WAY
+
+If you want to use this plugin in your project, I strongly advise to use [original plugin](https://github.com/litehelpers/Cordova-sqlcipher-adapter).
+
 # Cordova/PhoneGap SQLCipher adapter plugin
 
 Native interface to sqlcipher in a Cordova/PhoneGap plugin for Android, iOS, and Windows "Universal" (8.1), with API similar to HTML5/[Web SQL API](http://www.w3.org/TR/webdatabase/).

@@ -1,6 +1,8 @@
-# THIS IS AN ALPHA VERSION WHICH IS NOT PRODUCTION READY IN ANY WAY
+# ATTENTION
 
-If you want to use this plugin in your project, I strongly advise to use [original plugin](https://github.com/litehelpers/Cordova-sqlcipher-adapter).
+This plugin is a fork of https://github.com/litehelpers/Cordova-sqlcipher-adapter.
+
+Please use original plugin which is available [on npm](https://www.npmjs.com/package/cordova-sqlcipher-adapter).
 
 # Cordova/PhoneGap SQLCipher adapter plugin
 
